@@ -4,6 +4,8 @@
 
 ![20190228_164923](./imagens/20190228_164923.jpg)
 
-![20190228_164937](./imagens/20190228_164937.jpg)
+![20190228_164937](https://github.com/Kallarari/lpae.github.io/blob/master/estudos/Theremin/imagens/Theremin%202.jpg?raw=true)
+
+![](https://github.com/Kallarari/lpae.github.io/blob/master/estudos/Theremin/imagens/Theremin%201.jpg?raw=true)
 
 [Voltar](https://lpae.github.io/)
